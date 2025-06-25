@@ -44,6 +44,22 @@
     "value": "Radio_Shuttle_Pilot_VO"
   },
   {
+    "label": "Shiphub_Admiral",
+    "value": "Shiphub_Admiral_VO"
+  },
+  {
+    "label": "Shiphub_Service_Technician",
+    "value": "Shiphub_Service_Technician_VO"
+  },
+  {
+    "label": "Shiphub_Ship_Master",
+    "value": "Shiphub_Ship_Master_VO"
+  },
+  {
+    "label": "Ship_Hub",
+    "value": "Ship_Hub"
+  },
+  {
     "label": "Tutorial_Dummy",
     "value": "Tutorial_Dummy_VO"
   },

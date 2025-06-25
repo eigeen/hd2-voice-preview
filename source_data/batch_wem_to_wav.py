@@ -23,7 +23,7 @@ def convert_wem_to_wav(wem_file):
     if os.path.exists(expect_wav_file):
         # 计算输出文件的新路径
         # 去掉前面的./
-        rel_path = os.path.relpath(wem_file, ".")
+        rel_path = os.path.relpath(wem_file, input_root)
         # 去掉.wem后缀
         rel_path = rel_path.replace(".wem", ".wav")
 
