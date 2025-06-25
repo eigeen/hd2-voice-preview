@@ -1,0 +1,22 @@
+[build]
+  command = "pnpm build"
+  publish = "dist"
+
+# 处理 SPA 的路由重定向
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[build.environment]
+  NODE_VERSION = "22"
+  NPM_FLAGS = "--version"
+
+# 开启 brotli 和 gzip 压缩
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Content-Security-Policy = "frame-ancestors 'none'" 
