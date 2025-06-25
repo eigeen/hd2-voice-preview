@@ -84,7 +84,10 @@ const header = [
 
 const sheetData = useQuery({
   key: () => ["sheetData", selectedCategory.value],
-  query: () => DataSource.getManifest(selectedCategory.value),
+  query: () => {
+    toScroll.value = true;
+    return DataSource.getManifest(selectedCategory.value);
+  },
 });
 
 // 滚动到高亮行
