@@ -1,0 +1,2187 @@
+[
+  {
+    "id": "10006249292752908403",
+    "content": " Automoton outpost destroyed",
+    "file": "10006249292752908403.ogg"
+  },
+  {
+    "id": "10029235200031250033",
+    "content": " Mission progress logged",
+    "file": "10029235200031250033.ogg"
+  },
+  {
+    "id": "10039857707168747429",
+    "content": " Asset secured",
+    "file": "10039857707168747429.ogg"
+  },
+  {
+    "id": "10043134371552845886",
+    "content": " Weapon emplacement on its way",
+    "file": "10043134371552845886.ogg"
+  },
+  {
+    "id": "10209034767887004909",
+    "content": " Area secure",
+    "file": "10209034767887004909.ogg"
+  },
+  {
+    "id": "10217401522610053240",
+    "content": " Target destroyed",
+    "file": "10217401522610053240.ogg"
+  },
+  {
+    "id": "10488200584466310246",
+    "content": " Prepare for contact",
+    "file": "10488200584466310246.ogg"
+  },
+  {
+    "id": "10507495018842638913",
+    "content": " ETA T minus 30 seconds",
+    "file": "10507495018842638913.ogg"
+  },
+  {
+    "id": "10561164093048697820",
+    "content": " Sending down equipment package",
+    "file": "10561164093048697820.ogg"
+  },
+  {
+    "id": "10590861366033526448",
+    "content": " Deploying smokescreen",
+    "file": "10590861366033526448.ogg"
+  },
+  {
+    "id": "10638797240236442184",
+    "content": " ETA T minus 1 minute",
+    "file": "10638797240236442184.ogg"
+  },
+  {
+    "id": "10657236549433879373",
+    "content": " Extraction is available",
+    "file": "10657236549433879373.ogg"
+  },
+  {
+    "id": "10668895632162930366",
+    "content": " Support station on its way",
+    "file": "10668895632162930366.ogg"
+  },
+  {
+    "id": "10693324590368443406",
+    "content": " ETA T minus 3 minutes",
+    "file": "10693324590368443406.ogg"
+  },
+  {
+    "id": "10851734483574268242",
+    "content": " Target confirmed destroyed",
+    "file": "10851734483574268242.ogg"
+  },
+  {
+    "id": "10877793842412999406",
+    "content": " Objective complete",
+    "file": "10877793842412999406.ogg"
+  },
+  {
+    "id": "1088832948333467333",
+    "content": " Mission at 30 minutes remaining",
+    "file": "1088832948333467333.ogg"
+  },
+  {
+    "id": "10925266498781435441",
+    "content": " You may proceed to extraction when ready",
+    "file": "10925266498781435441.ogg"
+  },
+  {
+    "id": "10990876319261387495",
+    "content": " ETA T minus 2 minutes",
+    "file": "10990876319261387495.ogg"
+  },
+  {
+    "id": "11004301720845378791",
+    "content": " ETA T minus 3 minutes",
+    "file": "11004301720845378791.ogg"
+  },
+  {
+    "id": "11099349623400466709",
+    "content": " Target destroyed in the name of liberty",
+    "file": "11099349623400466709.ogg"
+  },
+  {
+    "id": "11103370189294262607",
+    "content": " Terminid outpost destroyed",
+    "file": "11103370189294262607.ogg"
+  },
+  {
+    "id": "11145738458271401190",
+    "content": " Deploying non-lethal payload",
+    "file": "11145738458271401190.ogg"
+  },
+  {
+    "id": "11155023137893639562",
+    "content": " Objective near your position",
+    "file": "11155023137893639562.ogg"
+  },
+  {
+    "id": "11173429135416763172",
+    "content": " Mission at 20 minutes remaining",
+    "file": "11173429135416763172.ogg"
+  },
+  {
+    "id": "11183987167420679710",
+    "content": " Tactical asset near your position",
+    "file": "11183987167420679710.ogg"
+  },
+  {
+    "id": "11263905045126959334",
+    "content": " Reinforcement budget depleted",
+    "file": "11263905045126959334.ogg"
+  },
+  {
+    "id": "11279063753022114665",
+    "content": " ETA T minus 10 seconds",
+    "file": "11279063753022114665.ogg"
+  },
+  {
+    "id": "11325387380608861973",
+    "content": " Extraction shuttle inbound",
+    "file": "11325387380608861973.ogg"
+  },
+  {
+    "id": "11369393568315703609",
+    "content": " VIP secured",
+    "file": "11369393568315703609.ogg"
+  },
+  {
+    "id": "11399249013258591428",
+    "content": " High-priority target neutralized",
+    "file": "11399249013258591428.ogg"
+  },
+  {
+    "id": "11452674190870776415",
+    "content": " Targets confirmed destroyed",
+    "file": "11452674190870776415.ogg"
+  },
+  {
+    "id": "1147990061261259784",
+    "content": " Sub-objective nearby",
+    "file": "1147990061261259784.ogg"
+  },
+  {
+    "id": "11518868320404371546",
+    "content": " One minute remains destroyer departure imminent",
+    "file": "11518868320404371546.ogg"
+  },
+  {
+    "id": "11535614365876135682",
+    "content": " Orbital barrage incoming stand clear",
+    "file": "11535614365876135682.ogg"
+  },
+  {
+    "id": "11564539308484544717",
+    "content": " Gas strike incoming",
+    "file": "11564539308484544717.ogg"
+  },
+  {
+    "id": "11617984723960143815",
+    "content": " Sending down fortification",
+    "file": "11617984723960143815.ogg"
+  },
+  {
+    "id": "11622972603281094484",
+    "content": " Enemy high-priority target should be nearby stay sharp",
+    "file": "11622972603281094484.ogg"
+  },
+  {
+    "id": "11632047502715431006",
+    "content": " Outpost destroyed",
+    "file": "11632047502715431006.ogg"
+  },
+  {
+    "id": "11742612393737367864",
+    "content": " Mission at 40 minutes remaining",
+    "file": "11742612393737367864.ogg"
+  },
+  {
+    "id": "11948528683727485352",
+    "content": " Automoton facility destroyed",
+    "file": "11948528683727485352.ogg"
+  },
+  {
+    "id": "12070275908415734906",
+    "content": " ETA T minus 10 seconds clear landing zone",
+    "file": "12070275908415734906.ogg"
+  },
+  {
+    "id": "1207965948562501092",
+    "content": " Encounter cleared",
+    "file": "1207965948562501092.ogg"
+  },
+  {
+    "id": "12101179535993875832",
+    "content": " Mission at 20 minutes remaining",
+    "file": "12101179535993875832.ogg"
+  },
+  {
+    "id": "12223431440484055965",
+    "content": " 5 minutes left. Liberty speed your step Helldiver",
+    "file": "12223431440484055965.ogg"
+  },
+  {
+    "id": "12287229807803734159",
+    "content": " Deploying sentry",
+    "file": "12287229807803734159.ogg"
+  },
+  {
+    "id": "12350338007538915793",
+    "content": " Reinforcement budget running low",
+    "file": "12350338007538915793.ogg"
+  },
+  {
+    "id": "12353076463861277462",
+    "content": " Be advised the enemy high-priority target is near your position",
+    "file": "12353076463861277462.ogg"
+  },
+  {
+    "id": "12364439247320844962",
+    "content": " Terminid hive structure destroyed",
+    "file": "12364439247320844962.ogg"
+  },
+  {
+    "id": "12380214422372532710",
+    "content": " Deploying illumination flare",
+    "file": "12380214422372532710.ogg"
+  },
+  {
+    "id": "12382554171509196312",
+    "content": " Hellbomb request approved on its way now",
+    "file": "12382554171509196312.ogg"
+  },
+  {
+    "id": "12460955836106585918",
+    "content": " Sending down support weapon",
+    "file": "12460955836106585918.ogg"
+  },
+  {
+    "id": "12518796673250098865",
+    "content": " Unidentified enemy contact",
+    "file": "12518796673250098865.ogg"
+  },
+  {
+    "id": "12586930906573312182",
+    "content": " Additional reinforcement funding approved",
+    "file": "12586930906573312182.ogg"
+  },
+  {
+    "id": "12614565780439173914",
+    "content": " Enemy tactical asset within range",
+    "file": "12614565780439173914.ogg"
+  },
+  {
+    "id": "12671387541984136886",
+    "content": " Bot asset destroyed",
+    "file": "12671387541984136886.ogg"
+  },
+  {
+    "id": "12737703787912815570",
+    "content": " Main objective near your position",
+    "file": "12737703787912815570.ogg"
+  },
+  {
+    "id": "1274437080994763670",
+    "content": " Main objective nearby",
+    "file": "1274437080994763670.ogg"
+  },
+  {
+    "id": "1277254956466404568",
+    "content": " Orbital barrage incoming. Stand clear",
+    "file": "1277254956466404568.ogg"
+  },
+  {
+    "id": "1280362362278044841",
+    "content": " Sub-objective near your location",
+    "file": "1280362362278044841.ogg"
+  },
+  {
+    "id": "12832196249566198088",
+    "content": " Mission at 20 minutes remaining",
+    "file": "12832196249566198088.ogg"
+  },
+  {
+    "id": "128384746488268315",
+    "content": " Target destroyed",
+    "file": "128384746488268315.ogg"
+  },
+  {
+    "id": "12846121010909205002",
+    "content": " Enemy tactical asset within threat range",
+    "file": "12846121010909205002.ogg"
+  },
+  {
+    "id": "12850363172854437270",
+    "content": " Objective critical strategem available",
+    "file": "12850363172854437270.ogg"
+  },
+  {
+    "id": "12881764720816916309",
+    "content": " Freedom's purity secured",
+    "file": "12881764720816916309.ogg"
+  },
+  {
+    "id": "13011927066551699038",
+    "content": " Objective target destroyed",
+    "file": "13011927066551699038.ogg"
+  },
+  {
+    "id": "13138504679496132262",
+    "content": " Half reinforcement budget remaining",
+    "file": "13138504679496132262.ogg"
+  },
+  {
+    "id": "13164368913500056002",
+    "content": " ETA T minus 30 seconds",
+    "file": "13164368913500056002.ogg"
+  },
+  {
+    "id": "13176305150644906158",
+    "content": " Outpost cleared",
+    "file": "13176305150644906158.ogg"
+  },
+  {
+    "id": "13191256889029151939",
+    "content": " Helldiver lost sending replacement",
+    "file": "13191256889029151939.ogg"
+  },
+  {
+    "id": "13250149665564504235",
+    "content": " ETA T minus 3 minutes",
+    "file": "13250149665564504235.ogg"
+  },
+  {
+    "id": "13251573981228420854",
+    "content": " Launching smokescreen",
+    "file": "13251573981228420854.ogg"
+  },
+  {
+    "id": "13253630681743368663",
+    "content": " Objective secured",
+    "file": "13253630681743368663.ogg"
+  },
+  {
+    "id": "13302570063529385437",
+    "content": " Helldiver lost sending replacement",
+    "file": "13302570063529385437.ogg"
+  },
+  {
+    "id": "13357849580441306456",
+    "content": " Deploying support weapon",
+    "file": "13357849580441306456.ogg"
+  },
+  {
+    "id": "13362742397780923893",
+    "content": " Teleportation signature detection squids incoming",
+    "file": "13362742397780923893.ogg"
+  },
+  {
+    "id": "13396900801380329608",
+    "content": " ETA T minus 1 minute and 30 seconds",
+    "file": "13396900801380329608.ogg"
+  },
+  {
+    "id": "1345842300562943353",
+    "content": " VIP secured",
+    "file": "1345842300562943353.ogg"
+  },
+  {
+    "id": "13475591837200033620",
+    "content": " Tunnel breach detected bugs incoming",
+    "file": "13475591837200033620.ogg"
+  },
+  {
+    "id": "13479082935141050759",
+    "content": " Target destroyed in the name of liberty",
+    "file": "13479082935141050759.ogg"
+  },
+  {
+    "id": "13509052322051978254",
+    "content": " High-priority target eliminated",
+    "file": "13509052322051978254.ogg"
+  },
+  {
+    "id": "1355945825610657797",
+    "content": " Human assets: secured",
+    "file": "1355945825610657797.ogg"
+  },
+  {
+    "id": "13660479633361646736",
+    "content": " Tactical asset near your location",
+    "file": "13660479633361646736.ogg"
+  },
+  {
+    "id": "13671345623841072014",
+    "content": " Terminid outpost destroyed",
+    "file": "13671345623841072014.ogg"
+  },
+  {
+    "id": "13671522801957752703",
+    "content": " Bot dropships inbound to your position!",
+    "file": "13671522801957752703.ogg"
+  },
+  {
+    "id": "13734560345764944917",
+    "content": " Mission at 40 minutes remaining",
+    "file": "13734560345764944917.ogg"
+  },
+  {
+    "id": "1373878018156199634",
+    "content": " Mission at 30 minutes remaining",
+    "file": "1373878018156199634.ogg"
+  },
+  {
+    "id": "13755506563178729351",
+    "content": " Deploying minefield stand clear",
+    "file": "13755506563178729351.ogg"
+  },
+  {
+    "id": "1377023812536288735",
+    "content": " Terminid hive structure: destroyed",
+    "file": "1377023812536288735.ogg"
+  },
+  {
+    "id": "13778437861897356159",
+    "content": " Defense complete",
+    "file": "13778437861897356159.ogg"
+  },
+  {
+    "id": "13906735522990495112",
+    "content": " Firing non-lethal payload",
+    "file": "13906735522990495112.ogg"
+  },
+  {
+    "id": "13936769526522508958",
+    "content": " Reinforcement available",
+    "file": "13936769526522508958.ogg"
+  },
+  {
+    "id": "13954040625831821257",
+    "content": " Orbital barrage incoming stand clear",
+    "file": "13954040625831821257.ogg"
+  },
+  {
+    "id": "14023973834323725102",
+    "content": " Additional reinforcement funding approved",
+    "file": "14023973834323725102.ogg"
+  },
+  {
+    "id": "14063526837523801046",
+    "content": " Human assets relocated",
+    "file": "14063526837523801046.ogg"
+  },
+  {
+    "id": "14115376668018752312",
+    "content": " Objective near your position",
+    "file": "14115376668018752312.ogg"
+  },
+  {
+    "id": "14195996035848267178",
+    "content": " Democracy delivered",
+    "file": "14195996035848267178.ogg"
+  },
+  {
+    "id": "1422215967014474002",
+    "content": " Sending down fortification",
+    "file": "1422215967014474002.ogg"
+  },
+  {
+    "id": "14247073844853740127",
+    "content": " Extraction shuttle inbound",
+    "file": "14247073844853740127.ogg"
+  },
+  {
+    "id": "14313452205067907984",
+    "content": " Orbital strike incoming",
+    "file": "14313452205067907984.ogg"
+  },
+  {
+    "id": "1437775721461971130",
+    "content": " Objective near your position",
+    "file": "1437775721461971130.ogg"
+  },
+  {
+    "id": "14408369074852117720",
+    "content": " Sending down equipment package",
+    "file": "14408369074852117720.ogg"
+  },
+  {
+    "id": "14435689952326719836",
+    "content": " High-priority target eliminated. Justice served",
+    "file": "14435689952326719836.ogg"
+  },
+  {
+    "id": "14458676491556883765",
+    "content": " Reinforcement budget running low",
+    "file": "14458676491556883765.ogg"
+  },
+  {
+    "id": "14508727953174643142",
+    "content": " Extraction is available",
+    "file": "14508727953174643142.ogg"
+  },
+  {
+    "id": "14510198511628609056",
+    "content": " Sending down equipment package",
+    "file": "14510198511628609056.ogg"
+  },
+  {
+    "id": "14519009530995487518",
+    "content": " Mission progress logged",
+    "file": "14519009530995487518.ogg"
+  },
+  {
+    "id": "14556384523294776315",
+    "content": " Outpost destroyed",
+    "file": "14556384523294776315.ogg"
+  },
+  {
+    "id": "14699517475576600246",
+    "content": " Weapon emplacement on its way",
+    "file": "14699517475576600246.ogg"
+  },
+  {
+    "id": "14742185814623904896",
+    "content": " Target destroyed in the name of liberty",
+    "file": "14742185814623904896.ogg"
+  },
+  {
+    "id": "14753294392618790535",
+    "content": " Firing non-lethal payload",
+    "file": "14753294392618790535.ogg"
+  },
+  {
+    "id": "14775168150571859397",
+    "content": " I say again reinforcement is available",
+    "file": "14775168150571859397.ogg"
+  },
+  {
+    "id": "14888117787277111625",
+    "content": " 5 minutes left we can't stay this low much longer Helldiver",
+    "file": "14888117787277111625.ogg"
+  },
+  {
+    "id": "14894811001619243777",
+    "content": " Objective secured",
+    "file": "14894811001619243777.ogg"
+  },
+  {
+    "id": "14921851166724763289",
+    "content": " High-priority target eliminated justice served",
+    "file": "14921851166724763289.ogg"
+  },
+  {
+    "id": "14933986664250593120",
+    "content": " Targets destroyed",
+    "file": "14933986664250593120.ogg"
+  },
+  {
+    "id": "14951716614825239752",
+    "content": " 5 minutes remaining. I repeat 5 minutes remaining",
+    "file": "14951716614825239752.ogg"
+  },
+  {
+    "id": "15093190247839686001",
+    "content": " Warning you are leaving the mission area!",
+    "file": "15093190247839686001.ogg"
+  },
+  {
+    "id": "15113121379016501495",
+    "content": " Bug tunnel breach detected",
+    "file": "15113121379016501495.ogg"
+  },
+  {
+    "id": "1511328293845077591",
+    "content": " ETA T minus 2 minutes",
+    "file": "1511328293845077591.ogg"
+  },
+  {
+    "id": "15122716897305385237",
+    "content": " Firing non-lethal payload",
+    "file": "15122716897305385237.ogg"
+  },
+  {
+    "id": "15123922496688686978",
+    "content": " Bot dropships incoming on your position",
+    "file": "15123922496688686978.ogg"
+  },
+  {
+    "id": "15164147194952403750",
+    "content": " Squad lost deploying replacement squad",
+    "file": "15164147194952403750.ogg"
+  },
+  {
+    "id": "15196981865059357721",
+    "content": " Area secure",
+    "file": "15196981865059357721.ogg"
+  },
+  {
+    "id": "15252897943072234319",
+    "content": " ETA T minus 30 seconds",
+    "file": "15252897943072234319.ogg"
+  },
+  {
+    "id": "15293839768044043740",
+    "content": " Deploying minefield",
+    "file": "15293839768044043740.ogg"
+  },
+  {
+    "id": "15312176795025801483",
+    "content": " Firing orbital strike",
+    "file": "15312176795025801483.ogg"
+  },
+  {
+    "id": "15323132358201184880",
+    "content": " Make-ing progress",
+    "file": "15323132358201184880.ogg"
+  },
+  {
+    "id": "15355388093923948969",
+    "content": " Helldiver KIA deploying replacement",
+    "file": "15355388093923948969.ogg"
+  },
+  {
+    "id": "15415888222594290424",
+    "content": " Objective critical strategem no longer available",
+    "file": "15415888222594290424.ogg"
+  },
+  {
+    "id": "15416795450932106109",
+    "content": " Firing orbital barrage clear the area",
+    "file": "15416795450932106109.ogg"
+  },
+  {
+    "id": "15418052597058130639",
+    "content": " Objective critical strategem available",
+    "file": "15418052597058130639.ogg"
+  },
+  {
+    "id": "15470740335639571964",
+    "content": " Asset secured",
+    "file": "15470740335639571964.ogg"
+  },
+  {
+    "id": "15490591499197131449",
+    "content": " Extraction shuttle inbound",
+    "file": "15490591499197131449.ogg"
+  },
+  {
+    "id": "15491923646737225821",
+    "content": " Sending down sentry",
+    "file": "15491923646737225821.ogg"
+  },
+  {
+    "id": "15517011851254998955",
+    "content": " Automoton outpost destroyed",
+    "file": "15517011851254998955.ogg"
+  },
+  {
+    "id": "15525659436566671506",
+    "content": " Mission at 10 minutes remaining",
+    "file": "15525659436566671506.ogg"
+  },
+  {
+    "id": "1555695575924315989",
+    "content": " Tunnel breach detected prepare for bug contact",
+    "file": "1555695575924315989.ogg"
+  },
+  {
+    "id": "15632203500359410150",
+    "content": " ETA T minus 20 seconds",
+    "file": "15632203500359410150.ogg"
+  },
+  {
+    "id": "15633434152078771851",
+    "content": " Funding approved for one more reinforcement",
+    "file": "15633434152078771851.ogg"
+  },
+  {
+    "id": "15712845760827338811",
+    "content": " High-priority target neutralized",
+    "file": "15712845760827338811.ogg"
+  },
+  {
+    "id": "15777021889650386455",
+    "content": " Sub-objective near your location",
+    "file": "15777021889650386455.ogg"
+  },
+  {
+    "id": "15788145382206621105",
+    "content": " Targets destroyed",
+    "file": "15788145382206621105.ogg"
+  },
+  {
+    "id": "1580136544212916650",
+    "content": " Reinforcement budget running low",
+    "file": "1580136544212916650.ogg"
+  },
+  {
+    "id": "15810578568391730609",
+    "content": " Firing gas strike",
+    "file": "15810578568391730609.ogg"
+  },
+  {
+    "id": "1581434538314324559",
+    "content": " Unidentified enemy contact!",
+    "file": "1581434538314324559.ogg"
+  },
+  {
+    "id": "1581986910435902356",
+    "content": " ETA T minus 20 seconds",
+    "file": "1581986910435902356.ogg"
+  },
+  {
+    "id": "1587686808823894763",
+    "content": " Deploying illumination flare",
+    "file": "1587686808823894763.ogg"
+  },
+  {
+    "id": "15905655305571982943",
+    "content": " Reinforcement available",
+    "file": "15905655305571982943.ogg"
+  },
+  {
+    "id": "15930295993805414615",
+    "content": " Reinforcement available",
+    "file": "15930295993805414615.ogg"
+  },
+  {
+    "id": "1599171774248966720",
+    "content": " I say again: reinforcement is available",
+    "file": "1599171774248966720.ogg"
+  },
+  {
+    "id": "16059042733317643881",
+    "content": " Funding approved for one more reinforcement",
+    "file": "16059042733317643881.ogg"
+  },
+  {
+    "id": "16079948021257460837",
+    "content": " Request approved reinforcements on the way",
+    "file": "16079948021257460837.ogg"
+  },
+  {
+    "id": "16098266908260492826",
+    "content": " ETA T minus 1 minute 30 seconds",
+    "file": "16098266908260492826.ogg"
+  },
+  {
+    "id": "16133844782781774612",
+    "content": " Request approved deploying reinforcements",
+    "file": "16133844782781774612.ogg"
+  },
+  {
+    "id": "16255908987685670955",
+    "content": " Bot outpost destroyed",
+    "file": "16255908987685670955.ogg"
+  },
+  {
+    "id": "1631786391783445411",
+    "content": " Bot outpost destroyed",
+    "file": "1631786391783445411.ogg"
+  },
+  {
+    "id": "16351805899922528790",
+    "content": " Deploying sentry",
+    "file": "16351805899922528790.ogg"
+  },
+  {
+    "id": "16385035438266554860",
+    "content": " Automoton outpost destroyed",
+    "file": "16385035438266554860.ogg"
+  },
+  {
+    "id": "16389037068509580738",
+    "content": " Support station on its way",
+    "file": "16389037068509580738.ogg"
+  },
+  {
+    "id": "16394047289999207544",
+    "content": " ETA T minus 2 minutes",
+    "file": "16394047289999207544.ogg"
+  },
+  {
+    "id": "1640234586941571398",
+    "content": " Outpost cleared",
+    "file": "1640234586941571398.ogg"
+  },
+  {
+    "id": "16419782072500986896",
+    "content": " Half reinforcement budget remaining",
+    "file": "16419782072500986896.ogg"
+  },
+  {
+    "id": "1644758498151407609",
+    "content": " Mission progress logged",
+    "file": "1644758498151407609.ogg"
+  },
+  {
+    "id": "16449568844565274767",
+    "content": " Reinforcement ready to fire",
+    "file": "16449568844565274767.ogg"
+  },
+  {
+    "id": "16520491031023972191",
+    "content": " Enemy tactical asset within threat range",
+    "file": "16520491031023972191.ogg"
+  },
+  {
+    "id": "16601929410065504995",
+    "content": " ETA T minus 20 seconds",
+    "file": "16601929410065504995.ogg"
+  },
+  {
+    "id": "16602356745902669407",
+    "content": " One minute left! Destroyer preparing to leave",
+    "file": "16602356745902669407.ogg"
+  },
+  {
+    "id": "16638659733843096584",
+    "content": " Squid teleportation incoming",
+    "file": "16638659733843096584.ogg"
+  },
+  {
+    "id": "16651616493113016950",
+    "content": " Outpost cleared",
+    "file": "16651616493113016950.ogg"
+  },
+  {
+    "id": "16678019677881536676",
+    "content": " Objective complete",
+    "file": "16678019677881536676.ogg"
+  },
+  {
+    "id": "16793582845828581810",
+    "content": " Hive structure destroyed",
+    "file": "16793582845828581810.ogg"
+  },
+  {
+    "id": "16823393696014415436",
+    "content": " Request approved reinforcements on the way",
+    "file": "16823393696014415436.ogg"
+  },
+  {
+    "id": "16857709818934339727",
+    "content": " Automoton outpost scrapped",
+    "file": "16857709818934339727.ogg"
+  },
+  {
+    "id": "16880462551197102795",
+    "content": " Bot dropships incoming!",
+    "file": "16880462551197102795.ogg"
+  },
+  {
+    "id": "16882089422774256746",
+    "content": " Package retrieved",
+    "file": "16882089422774256746.ogg"
+  },
+  {
+    "id": "16883884648021895708",
+    "content": " Super Destroyer leaving low orbit! Emergency extraction shuttle deployed",
+    "file": "16883884648021895708.ogg"
+  },
+  {
+    "id": "16885573368722136114",
+    "content": " Automoton facility destroyed",
+    "file": "16885573368722136114.ogg"
+  },
+  {
+    "id": "16890601726106987979",
+    "content": " Sending down sentry",
+    "file": "16890601726106987979.ogg"
+  },
+  {
+    "id": "16898683458008828363",
+    "content": " Helldiver lost sending replacement",
+    "file": "16898683458008828363.ogg"
+  },
+  {
+    "id": "16899958325167373413",
+    "content": " One step closer to mission completion",
+    "file": "16899958325167373413.ogg"
+  },
+  {
+    "id": "16906060476455599814",
+    "content": " Firing orbital barrage clear the area",
+    "file": "16906060476455599814.ogg"
+  },
+  {
+    "id": "16916712598992074917",
+    "content": " High-priority target eliminated justice served",
+    "file": "16916712598992074917.ogg"
+  },
+  {
+    "id": "16958706214882314358",
+    "content": " High-priority target is in your vicinity",
+    "file": "16958706214882314358.ogg"
+  },
+  {
+    "id": "16979737099376561722",
+    "content": " Sending down support weapon",
+    "file": "16979737099376561722.ogg"
+  },
+  {
+    "id": "16982977713701461125",
+    "content": " Objective completed",
+    "file": "16982977713701461125.ogg"
+  },
+  {
+    "id": "17013532150446693304",
+    "content": " Human assets relocated",
+    "file": "17013532150446693304.ogg"
+  },
+  {
+    "id": "17101670425554220256",
+    "content": " Request approved reinforcements have been launched",
+    "file": "17101670425554220256.ogg"
+  },
+  {
+    "id": "17146745098528467298",
+    "content": " Enemy reinforcements incoming",
+    "file": "17146745098528467298.ogg"
+  },
+  {
+    "id": "17150082192457125076",
+    "content": " ETA T minus 1 minute 30 seconds",
+    "file": "17150082192457125076.ogg"
+  },
+  {
+    "id": "1717978624394642637",
+    "content": " Objective targets destroyed",
+    "file": "1717978624394642637.ogg"
+  },
+  {
+    "id": "17195039522425680045",
+    "content": " Mission at 30 minutes remaining",
+    "file": "17195039522425680045.ogg"
+  },
+  {
+    "id": "17202944021165916442",
+    "content": " Encounter cleared",
+    "file": "17202944021165916442.ogg"
+  },
+  {
+    "id": "17234068238131052772",
+    "content": " Targets destroyed",
+    "file": "17234068238131052772.ogg"
+  },
+  {
+    "id": "17333309348805619977",
+    "content": " Main objective nearby",
+    "file": "17333309348805619977.ogg"
+  },
+  {
+    "id": "17341295165359652640",
+    "content": " Sending down sentry",
+    "file": "17341295165359652640.ogg"
+  },
+  {
+    "id": "17381872453552574963",
+    "content": " Package retrieved",
+    "file": "17381872453552574963.ogg"
+  },
+  {
+    "id": "1739551200995667468",
+    "content": " Sending down support weapon",
+    "file": "1739551200995667468.ogg"
+  },
+  {
+    "id": "17443402300949857041",
+    "content": " Main objective nearby",
+    "file": "17443402300949857041.ogg"
+  },
+  {
+    "id": "17471577978855877844",
+    "content": " Tactical asset nearby",
+    "file": "17471577978855877844.ogg"
+  },
+  {
+    "id": "1749618523300839722",
+    "content": " Tactical asset nearby",
+    "file": "1749618523300839722.ogg"
+  },
+  {
+    "id": "1752322116348737889",
+    "content": " Deploying support station",
+    "file": "1752322116348737889.ogg"
+  },
+  {
+    "id": "17543709165033604500",
+    "content": " Super Destroyer leaving low orbit emergency extraction shuttle deployed",
+    "file": "17543709165033604500.ogg"
+  },
+  {
+    "id": "17567187768628382250",
+    "content": " Automoton outpost scrapped",
+    "file": "17567187768628382250.ogg"
+  },
+  {
+    "id": "17592626738027487772",
+    "content": " ETA T minus 30 seconds",
+    "file": "17592626738027487772.ogg"
+  },
+  {
+    "id": "17601991651080111344",
+    "content": " Tunnel breach detected prepare for bug contact",
+    "file": "17601991651080111344.ogg"
+  },
+  {
+    "id": "17606294429396458654",
+    "content": " Targets confirmed destroyed",
+    "file": "17606294429396458654.ogg"
+  },
+  {
+    "id": "17662180825078152817",
+    "content": " Liberty dispensed",
+    "file": "17662180825078152817.ogg"
+  },
+  {
+    "id": "17687725986672216018",
+    "content": " ETA T minus 10 seconds",
+    "file": "17687725986672216018.ogg"
+  },
+  {
+    "id": "17705402258811388069",
+    "content": " Teleportation signature detected squids incoming",
+    "file": "17705402258811388069.ogg"
+  },
+  {
+    "id": "17738909655237205859",
+    "content": " Illuminate outpost destroyed",
+    "file": "17738909655237205859.ogg"
+  },
+  {
+    "id": "17753857740031681957",
+    "content": " Main objective near your position",
+    "file": "17753857740031681957.ogg"
+  },
+  {
+    "id": "17754016919120649791",
+    "content": " Objective nearby",
+    "file": "17754016919120649791.ogg"
+  },
+  {
+    "id": "17760148675234415650",
+    "content": " 1 minute left! Destroyer preparing to leave",
+    "file": "17760148675234415650.ogg"
+  },
+  {
+    "id": "17822818843853793233",
+    "content": " Squid outpost destroyed",
+    "file": "17822818843853793233.ogg"
+  },
+  {
+    "id": "17827840479351382954",
+    "content": " Ally destroyer joining squadron deploying Helldiver",
+    "file": "17827840479351382954.ogg"
+  },
+  {
+    "id": "17843507277716047008",
+    "content": " Helldiver you are moving outside the mission area",
+    "file": "17843507277716047008.ogg"
+  },
+  {
+    "id": "1795797026490454954",
+    "content": " Human assets: secured",
+    "file": "1795797026490454954.ogg"
+  },
+  {
+    "id": "17988583498818568655",
+    "content": " Objective critical strategem no longer available",
+    "file": "17988583498818568655.ogg"
+  },
+  {
+    "id": "17991933521135219930",
+    "content": " Objective targets destroyed",
+    "file": "17991933521135219930.ogg"
+  },
+  {
+    "id": "18059289754462489936",
+    "content": " Hive structure destroyed",
+    "file": "18059289754462489936.ogg"
+  },
+  {
+    "id": "18063891330825072475",
+    "content": " Deploying equipment package",
+    "file": "18063891330825072475.ogg"
+  },
+  {
+    "id": "18084780808265229923",
+    "content": " ETA T minus 3 minutes",
+    "file": "18084780808265229923.ogg"
+  },
+  {
+    "id": "18213420030886766226",
+    "content": " Bot dropships incoming on your position",
+    "file": "18213420030886766226.ogg"
+  },
+  {
+    "id": "18243251638151460526",
+    "content": " Warning you are in range of enemy artillery",
+    "file": "18243251638151460526.ogg"
+  },
+  {
+    "id": "18303098111892124137",
+    "content": " Mission at 10 minutes remaining",
+    "file": "18303098111892124137.ogg"
+  },
+  {
+    "id": "18418589508156975137",
+    "content": " Half reinforcement budget remaining",
+    "file": "18418589508156975137.ogg"
+  },
+  {
+    "id": "1959831931863646377",
+    "content": " ETA T minus 1 minute thirty seconds",
+    "file": "1959831931863646377.ogg"
+  },
+  {
+    "id": "2015311473484153726",
+    "content": " Bug outpost: destroyed",
+    "file": "2015311473484153726.ogg"
+  },
+  {
+    "id": "2049922747333648786",
+    "content": " Firing gas strike",
+    "file": "2049922747333648786.ogg"
+  },
+  {
+    "id": "2086731360692422694",
+    "content": " Democracy delivered",
+    "file": "2086731360692422694.ogg"
+  },
+  {
+    "id": "2093667447169872589",
+    "content": " Hellbomb request approved on its way now",
+    "file": "2093667447169872589.ogg"
+  },
+  {
+    "id": "2121731894112519323",
+    "content": " Making progress",
+    "file": "2121731894112519323.ogg"
+  },
+  {
+    "id": "217588042518126556",
+    "content": " Mission is progressing",
+    "file": "217588042518126556.ogg"
+  },
+  {
+    "id": "2193340216410745754",
+    "content": " Freedom's purity secured",
+    "file": "2193340216410745754.ogg"
+  },
+  {
+    "id": "2289875201066612932",
+    "content": " Outpost destroyed",
+    "file": "2289875201066612932.ogg"
+  },
+  {
+    "id": "2355778517690849147",
+    "content": " Enemy reinforcements inbound prepare for contact",
+    "file": "2355778517690849147.ogg"
+  },
+  {
+    "id": "2462731386387601537",
+    "content": " Terminid outpost purged.",
+    "file": "2462731386387601537.ogg"
+  },
+  {
+    "id": "2478844670580183104",
+    "content": " Engaging orbital laser.",
+    "file": "2478844670580183104.ogg"
+  },
+  {
+    "id": "2564695806676679375",
+    "content": " Deploying minefield: stand clear",
+    "file": "2564695806676679375.ogg"
+  },
+  {
+    "id": "2569828878252673143",
+    "content": " Deploying non-lethal payload",
+    "file": "2569828878252673143.ogg"
+  },
+  {
+    "id": "2606878662601502634",
+    "content": " Ally destroyer joining squadron. Deploying Helldiver to combat zone",
+    "file": "2606878662601502634.ogg"
+  },
+  {
+    "id": "2610143735336839251",
+    "content": " Sub-objective nearby",
+    "file": "2610143735336839251.ogg"
+  },
+  {
+    "id": "2623263438391619594",
+    "content": " 1 minute remains; destroyer departure imminent",
+    "file": "2623263438391619594.ogg"
+  },
+  {
+    "id": "2671810445518974237",
+    "content": " ETA T minus 2 minutes 30 seconds",
+    "file": "2671810445518974237.ogg"
+  },
+  {
+    "id": "2679418416281631174",
+    "content": " Defense complete",
+    "file": "2679418416281631174.ogg"
+  },
+  {
+    "id": "2712563755028188506",
+    "content": " Bot outpost destroyed",
+    "file": "2712563755028188506.ogg"
+  },
+  {
+    "id": "2966090540242140991",
+    "content": " Objective targets destroyed",
+    "file": "2966090540242140991.ogg"
+  },
+  {
+    "id": "3007370160150586112",
+    "content": " Reinforcement ready to fire",
+    "file": "3007370160150586112.ogg"
+  },
+  {
+    "id": "303543897848534591",
+    "content": " Additional reinforcement funding approved",
+    "file": "303543897848534591.ogg"
+  },
+  {
+    "id": "3100186051929079986",
+    "content": " Helldiver KIA deploying replacement",
+    "file": "3100186051929079986.ogg"
+  },
+  {
+    "id": "3108391808881670507",
+    "content": " High-priority target: eliminated",
+    "file": "3108391808881670507.ogg"
+  },
+  {
+    "id": "3120927351702970361",
+    "content": " Request approved: deploying reinforcements",
+    "file": "3120927351702970361.ogg"
+  },
+  {
+    "id": "3203129633910584503",
+    "content": " Extraction request confirmed: shuttle inbound",
+    "file": "3203129633910584503.ogg"
+  },
+  {
+    "id": "3210124933200623511",
+    "content": " Illuminate outpost erased",
+    "file": "3210124933200623511.ogg"
+  },
+  {
+    "id": "3219632965172067738",
+    "content": " 5 minutes left! Liberty speed your step Helldiver",
+    "file": "3219632965172067738.ogg"
+  },
+  {
+    "id": "322662018279020699",
+    "content": " Tunnel breach detected bugs incoming",
+    "file": "322662018279020699.ogg"
+  },
+  {
+    "id": "3234049631348832369",
+    "content": " ETA T minus 20 seconds",
+    "file": "3234049631348832369.ogg"
+  },
+  {
+    "id": "3237759011630175924",
+    "content": " Objective completed",
+    "file": "3237759011630175924.ogg"
+  },
+  {
+    "id": "3267474578135322114",
+    "content": " Deploying fortification",
+    "file": "3267474578135322114.ogg"
+  },
+  {
+    "id": "3269286824405037678",
+    "content": " Extraction is available",
+    "file": "3269286824405037678.ogg"
+  },
+  {
+    "id": "3312473580011985303",
+    "content": " Squid outpost destroyed",
+    "file": "3312473580011985303.ogg"
+  },
+  {
+    "id": "3321934783849364189",
+    "content": " Mission map updated",
+    "file": "3321934783849364189.ogg"
+  },
+  {
+    "id": "3338729373143232076",
+    "content": " Orbital strike incoming",
+    "file": "3338729373143232076.ogg"
+  },
+  {
+    "id": "3397179081449097353",
+    "content": " Reinforcement ready upon request",
+    "file": "3397179081449097353.ogg"
+  },
+  {
+    "id": "340312240612891876",
+    "content": " Prepare for contact",
+    "file": "340312240612891876.ogg"
+  },
+  {
+    "id": "3430280503378852910",
+    "content": " Objective defended",
+    "file": "3430280503378852910.ogg"
+  },
+  {
+    "id": "3431455990177077847",
+    "content": " Automoton outpost scrapped",
+    "file": "3431455990177077847.ogg"
+  },
+  {
+    "id": "3516377304255597457",
+    "content": " Hostiles incoming!",
+    "file": "3516377304255597457.ogg"
+  },
+  {
+    "id": "3524948941085634331",
+    "content": " Target confirmed destroyed",
+    "file": "3524948941085634331.ogg"
+  },
+  {
+    "id": "3574418640036871289",
+    "content": " ETA T minus 1 minute",
+    "file": "3574418640036871289.ogg"
+  },
+  {
+    "id": "360296970873126457",
+    "content": " Tactical asset near your position",
+    "file": "360296970873126457.ogg"
+  },
+  {
+    "id": "3609561096111968182",
+    "content": " 1 minute remains! Destroyer departure imminent!",
+    "file": "3609561096111968182.ogg"
+  },
+  {
+    "id": "3612214417873902862",
+    "content": " You may proceed to extraction when ready",
+    "file": "3612214417873902862.ogg"
+  },
+  {
+    "id": "368354175904986502",
+    "content": " Objective completed",
+    "file": "368354175904986502.ogg"
+  },
+  {
+    "id": "3690177151204340483",
+    "content": " Helldiver you are moving outside the mission area",
+    "file": "3690177151204340483.ogg"
+  },
+  {
+    "id": "3702164761157987561",
+    "content": " Tactical asset near your position",
+    "file": "3702164761157987561.ogg"
+  },
+  {
+    "id": "3724793195873019946",
+    "content": " Mission is progressing",
+    "file": "3724793195873019946.ogg"
+  },
+  {
+    "id": "3747432914171911704",
+    "content": " Squid teleportation signature detected",
+    "file": "3747432914171911704.ogg"
+  },
+  {
+    "id": "3807530800886154602",
+    "content": " Mission at 40 minutes remaining",
+    "file": "3807530800886154602.ogg"
+  },
+  {
+    "id": "3850387788241431220",
+    "content": " Sub-objective in your vicinity",
+    "file": "3850387788241431220.ogg"
+  },
+  {
+    "id": "3863841820321083431",
+    "content": " Mission at 10 minutes remaining",
+    "file": "3863841820321083431.ogg"
+  },
+  {
+    "id": "3957969083828434285",
+    "content": " ETA T minus 1 minute",
+    "file": "3957969083828434285.ogg"
+  },
+  {
+    "id": "395869652808219553",
+    "content": " Bot dropships incoming",
+    "file": "395869652808219553.ogg"
+  },
+  {
+    "id": "3967952116330444900",
+    "content": " Target destroyed",
+    "file": "3967952116330444900.ogg"
+  },
+  {
+    "id": "3971032946510692515",
+    "content": " Request approved reinforcements have been launched",
+    "file": "3971032946510692515.ogg"
+  },
+  {
+    "id": "3977287194648505982",
+    "content": " Ally destroyer leaving squadron",
+    "file": "3977287194648505982.ogg"
+  },
+  {
+    "id": "4029341261404252687",
+    "content": " Reinforcement budget depleted",
+    "file": "4029341261404252687.ogg"
+  },
+  {
+    "id": "4058127377664693699",
+    "content": " Enemy tactical asset within range",
+    "file": "4058127377664693699.ogg"
+  },
+  {
+    "id": "4062124592444685948",
+    "content": " Be advised the enemy high-priority target is near your position",
+    "file": "4062124592444685948.ogg"
+  },
+  {
+    "id": "4208198446834429127",
+    "content": " Sub-objective near your location",
+    "file": "4208198446834429127.ogg"
+  },
+  {
+    "id": "4240045888570226575",
+    "content": " Targets confirmed: destroyed",
+    "file": "4240045888570226575.ogg"
+  },
+  {
+    "id": "4288185870480916701",
+    "content": " VIP secured",
+    "file": "4288185870480916701.ogg"
+  },
+  {
+    "id": "4308618637334717730",
+    "content": " Support station on its way",
+    "file": "4308618637334717730.ogg"
+  },
+  {
+    "id": "4391199744574289272",
+    "content": " ETA T minus 2 minutes",
+    "file": "4391199744574289272.ogg"
+  },
+  {
+    "id": "4440769145163568112",
+    "content": " Sub-objective near your location",
+    "file": "4440769145163568112.ogg"
+  },
+  {
+    "id": "4497294952856082940",
+    "content": " Squid outpost: destroyed",
+    "file": "4497294952856082940.ogg"
+  },
+  {
+    "id": "4553466248951376361",
+    "content": " Squid teleportation signature detected",
+    "file": "4553466248951376361.ogg"
+  },
+  {
+    "id": "4619523090012243590",
+    "content": " ETA T minus 30 seconds",
+    "file": "4619523090012243590.ogg"
+  },
+  {
+    "id": "4771467609880247119",
+    "content": " Hostiles incoming",
+    "file": "4771467609880247119.ogg"
+  },
+  {
+    "id": "4840362272225362584",
+    "content": " Liberty dispensed",
+    "file": "4840362272225362584.ogg"
+  },
+  {
+    "id": "4915412893258991184",
+    "content": " Ally destroyer has left the squadron",
+    "file": "4915412893258991184.ogg"
+  },
+  {
+    "id": "4971025110528841746",
+    "content": " Deploying fortification",
+    "file": "4971025110528841746.ogg"
+  },
+  {
+    "id": "5061909457162482877",
+    "content": " High-priority target: eliminated",
+    "file": "5061909457162482877.ogg"
+  },
+  {
+    "id": "5073790565737251070",
+    "content": " One step closer to mission completion",
+    "file": "5073790565737251070.ogg"
+  },
+  {
+    "id": "510104509864280244",
+    "content": " Deploying minefield",
+    "file": "510104509864280244.ogg"
+  },
+  {
+    "id": "5134078271778531968",
+    "content": " Hellbomb request approved deploying now",
+    "file": "5134078271778531968.ogg"
+  },
+  {
+    "id": "515522398065316554",
+    "content": " 5 minutes remaining. I repeat: five minutes remaining",
+    "file": "515522398065316554.ogg"
+  },
+  {
+    "id": "515967877954047352",
+    "content": " Extraction shuttle inbound",
+    "file": "515967877954047352.ogg"
+  },
+  {
+    "id": "5211700013673575124",
+    "content": " ETA T minus 1 minute",
+    "file": "5211700013673575124.ogg"
+  },
+  {
+    "id": "5245182334293619091",
+    "content": " Sub-objective nearby",
+    "file": "5245182334293619091.ogg"
+  },
+  {
+    "id": "5248250918792653699",
+    "content": " Objective completed",
+    "file": "5248250918792653699.ogg"
+  },
+  {
+    "id": "5297680671185448194",
+    "content": " Deploying sentry",
+    "file": "5297680671185448194.ogg"
+  },
+  {
+    "id": "5316323948819819056",
+    "content": " Engaging orbital laser",
+    "file": "5316323948819819056.ogg"
+  },
+  {
+    "id": "5318118046541883680",
+    "content": " 5 minutes left! We can't stay this low much longer Helldiver!",
+    "file": "5318118046541883680.ogg"
+  },
+  {
+    "id": "537959321763982718",
+    "content": " Warning you are in range of enemy artillery",
+    "file": "537959321763982718.ogg"
+  },
+  {
+    "id": "5406777906489898773",
+    "content": " Outpost destroyed",
+    "file": "5406777906489898773.ogg"
+  },
+  {
+    "id": "5437194093083443270",
+    "content": " ETA T minus 20 seconds",
+    "file": "5437194093083443270.ogg"
+  },
+  {
+    "id": "5451927754594209414",
+    "content": " Mission map: updated",
+    "file": "5451927754594209414.ogg"
+  },
+  {
+    "id": "5454069921815321990",
+    "content": " Deploying fortification",
+    "file": "5454069921815321990.ogg"
+  },
+  {
+    "id": "5502048592641587680",
+    "content": " Enemy reinforcements inbound prepare for contact",
+    "file": "5502048592641587680.ogg"
+  },
+  {
+    "id": "5541345585657022132",
+    "content": " High-priority target is in your vicinity",
+    "file": "5541345585657022132.ogg"
+  },
+  {
+    "id": "5552043867210136773",
+    "content": " Squad lost: deploying replacement squad",
+    "file": "5552043867210136773.ogg"
+  },
+  {
+    "id": "5609981980360918302",
+    "content": " One step closer to mission completion",
+    "file": "5609981980360918302.ogg"
+  },
+  {
+    "id": "5677045662863388086",
+    "content": " Democracy's dignity maintained",
+    "file": "5677045662863388086.ogg"
+  },
+  {
+    "id": "5729828399010759031",
+    "content": " Targets destroyed",
+    "file": "5729828399010759031.ogg"
+  },
+  {
+    "id": "5784222738345194156",
+    "content": " Objective target destroyed",
+    "file": "5784222738345194156.ogg"
+  },
+  {
+    "id": "5797066534780881184",
+    "content": " Tactical asset nearby",
+    "file": "5797066534780881184.ogg"
+  },
+  {
+    "id": "580371860179382288",
+    "content": " Bot asset: destroyed",
+    "file": "580371860179382288.ogg"
+  },
+  {
+    "id": "5832472013653289639",
+    "content": " Firing orbital strike",
+    "file": "5832472013653289639.ogg"
+  },
+  {
+    "id": "5920836962027588368",
+    "content": " Hellbomb request approved",
+    "file": "5920836962027588368.ogg"
+  },
+  {
+    "id": "5945960194076446691",
+    "content": " Bug outpost destroyed",
+    "file": "5945960194076446691.ogg"
+  },
+  {
+    "id": "5973055390750703865",
+    "content": " Deploying equipment package",
+    "file": "5973055390750703865.ogg"
+  },
+  {
+    "id": "6007878044317675690",
+    "content": " Objective complete",
+    "file": "6007878044317675690.ogg"
+  },
+  {
+    "id": "6071561563518273335",
+    "content": " Sending down fortification",
+    "file": "6071561563518273335.ogg"
+  },
+  {
+    "id": "6094141043905703076",
+    "content": " Orbital strike: incoming",
+    "file": "6094141043905703076.ogg"
+  },
+  {
+    "id": "6114686985889776197",
+    "content": " ETA T minus 10 seconds",
+    "file": "6114686985889776197.ogg"
+  },
+  {
+    "id": "6114872905503118908",
+    "content": " Mission is progressing",
+    "file": "6114872905503118908.ogg"
+  },
+  {
+    "id": "6155541887611228382",
+    "content": " I repeat: reinforcement ready",
+    "file": "6155541887611228382.ogg"
+  },
+  {
+    "id": "6282672871327750046",
+    "content": " Extraction request confirmed: shuttle inbound",
+    "file": "6282672871327750046.ogg"
+  },
+  {
+    "id": "629807909345220492",
+    "content": " Reinforcement budged depleted",
+    "file": "629807909345220492.ogg"
+  },
+  {
+    "id": "6308171935299136558",
+    "content": " Enemy tactical asset within range",
+    "file": "6308171935299136558.ogg"
+  },
+  {
+    "id": "6367951256109207722",
+    "content": " Automoton facility destroyed",
+    "file": "6367951256109207722.ogg"
+  },
+  {
+    "id": "6390325667407840512",
+    "content": " Deploying equipment package",
+    "file": "6390325667407840512.ogg"
+  },
+  {
+    "id": "6408530669582981309",
+    "content": " Bug tunnel breach detected",
+    "file": "6408530669582981309.ogg"
+  },
+  {
+    "id": "6427076467232810857",
+    "content": " ETA T minus 1 minute",
+    "file": "6427076467232810857.ogg"
+  },
+  {
+    "id": "6479512486882531544",
+    "content": " Terminid outpost purged",
+    "file": "6479512486882531544.ogg"
+  },
+  {
+    "id": "6552401598884963747",
+    "content": " Reinforcement ready upon request",
+    "file": "6552401598884963747.ogg"
+  },
+  {
+    "id": "6597166742443028397",
+    "content": " Terminid hive structure destroyed",
+    "file": "6597166742443028397.ogg"
+  },
+  {
+    "id": "6615025310941444561",
+    "content": " Target confirmed destroyed",
+    "file": "6615025310941444561.ogg"
+  },
+  {
+    "id": "6647045314542420246",
+    "content": " Firing orbital strike",
+    "file": "6647045314542420246.ogg"
+  },
+  {
+    "id": "6674951688690297928",
+    "content": " Ally destroyer has left the squadron",
+    "file": "6674951688690297928.ogg"
+  },
+  {
+    "id": "6722298025923238379",
+    "content": " Target destroyed",
+    "file": "6722298025923238379.ogg"
+  },
+  {
+    "id": "6764832311183925619",
+    "content": " Sub-objective in your vicinity",
+    "file": "6764832311183925619.ogg"
+  },
+  {
+    "id": "6766608116958521532",
+    "content": " Objective completed",
+    "file": "6766608116958521532.ogg"
+  },
+  {
+    "id": "6793308090128192853",
+    "content": " Unidentified hostiles incoming",
+    "file": "6793308090128192853.ogg"
+  },
+  {
+    "id": "6814808254122191707",
+    "content": " Ally destroyer joining squadron. Deploying Helldiver",
+    "file": "6814808254122191707.ogg"
+  },
+  {
+    "id": "6869757104095192926",
+    "content": " Outpost destroyed",
+    "file": "6869757104095192926.ogg"
+  },
+  {
+    "id": "6967786420943085433",
+    "content": " Tactical asset near your location",
+    "file": "6967786420943085433.ogg"
+  },
+  {
+    "id": "6987992186715612154",
+    "content": " ETA T minus 2 minutes and 30 seconds",
+    "file": "6987992186715612154.ogg"
+  },
+  {
+    "id": "6990005443502313335",
+    "content": " Sub-objective in your vicinity",
+    "file": "6990005443502313335.ogg"
+  },
+  {
+    "id": "7057260363616624860",
+    "content": " Illuminate outpost erased",
+    "file": "7057260363616624860.ogg"
+  },
+  {
+    "id": "7072762613058805663",
+    "content": " Extraction request confirmed shuttle inbound",
+    "file": "7072762613058805663.ogg"
+  },
+  {
+    "id": "7090185723143455372",
+    "content": " Firing orbital laser",
+    "file": "7090185723143455372.ogg"
+  },
+  {
+    "id": "7092390751459942149",
+    "content": " Squad lost! Deploying full replacement!",
+    "file": "7092390751459942149.ogg"
+  },
+  {
+    "id": "7121821128509542444",
+    "content": " Objective defended",
+    "file": "7121821128509542444.ogg"
+  },
+  {
+    "id": "7148347685596354930",
+    "content": " Illuminate outpost destroyed",
+    "file": "7148347685596354930.ogg"
+  },
+  {
+    "id": "7198050125728366879",
+    "content": " Bot dropships inbound to your position",
+    "file": "7198050125728366879.ogg"
+  },
+  {
+    "id": "7206889560190617303",
+    "content": " Bug outpost destroyed",
+    "file": "7206889560190617303.ogg"
+  },
+  {
+    "id": "7270286543850037083",
+    "content": " Targets destroyed",
+    "file": "7270286543850037083.ogg"
+  },
+  {
+    "id": "7301614802837935888",
+    "content": " Firing orbital laser",
+    "file": "7301614802837935888.ogg"
+  },
+  {
+    "id": "7330709006683605407",
+    "content": " Deploying support weapon",
+    "file": "7330709006683605407.ogg"
+  },
+  {
+    "id": "7340269523310905223",
+    "content": " High-priority target neutralized",
+    "file": "7340269523310905223.ogg"
+  },
+  {
+    "id": "7360863802294633727",
+    "content": " ETA T minus 10 seconds",
+    "file": "7360863802294633727.ogg"
+  },
+  {
+    "id": "742489848528268855",
+    "content": " Helldiver KIA deploying replacement",
+    "file": "742489848528268855.ogg"
+  },
+  {
+    "id": "7489487549668280921",
+    "content": " ETA T minus 10 seconds clear landing zone",
+    "file": "7489487549668280921.ogg"
+  },
+  {
+    "id": "7511894887085801701",
+    "content": " Deploying support weapon",
+    "file": "7511894887085801701.ogg"
+  },
+  {
+    "id": "7544117074380299054",
+    "content": " Deploying support station",
+    "file": "7544117074380299054.ogg"
+  },
+  {
+    "id": "7570306805309713481",
+    "content": " Encounter cleared",
+    "file": "7570306805309713481.ogg"
+  },
+  {
+    "id": "7570851662667022747",
+    "content": " Warning you are leaving the mission area",
+    "file": "7570851662667022747.ogg"
+  },
+  {
+    "id": "7636361709811243094",
+    "content": " Ally destroyer joining squadron deploying Helldiver to combat zone",
+    "file": "7636361709811243094.ogg"
+  },
+  {
+    "id": "7696312166734395571",
+    "content": " Reinforcement ready upon request",
+    "file": "7696312166734395571.ogg"
+  },
+  {
+    "id": "7723046829999582741",
+    "content": " Gas strike incoming",
+    "file": "7723046829999582741.ogg"
+  },
+  {
+    "id": "7740733330629470219",
+    "content": " Democracy's dignity maintained",
+    "file": "7740733330629470219.ogg"
+  },
+  {
+    "id": "7814695765931306015",
+    "content": " Squad lost deploying full replacement",
+    "file": "7814695765931306015.ogg"
+  },
+  {
+    "id": "7823871644010768546",
+    "content": " Hive structure destroyed",
+    "file": "7823871644010768546.ogg"
+  },
+  {
+    "id": "7903828966368143957",
+    "content": " Objective secured",
+    "file": "7903828966368143957.ogg"
+  },
+  {
+    "id": "7933303045534355067",
+    "content": " Tactical asset near your location",
+    "file": "7933303045534355067.ogg"
+  },
+  {
+    "id": "7979089441321293237",
+    "content": " Deploying smokescreen",
+    "file": "7979089441321293237.ogg"
+  },
+  {
+    "id": "8075314390196515597",
+    "content": " Squid teleportation incoming!",
+    "file": "8075314390196515597.ogg"
+  },
+  {
+    "id": "8095800013180815637",
+    "content": " Sub-objective in your vicinity",
+    "file": "8095800013180815637.ogg"
+  },
+  {
+    "id": "81117298275378874",
+    "content": " Enemy high-priority target should be nearby. Stay sharp",
+    "file": "81117298275378874.ogg"
+  },
+  {
+    "id": "8145102846782055188",
+    "content": " ETA T minus 2 minutes 30 seconds",
+    "file": "8145102846782055188.ogg"
+  },
+  {
+    "id": "8248289962463964762",
+    "content": " Deploying weapon emplacement",
+    "file": "8248289962463964762.ogg"
+  },
+  {
+    "id": "8303286577823141783",
+    "content": " Illuminate outpost erased",
+    "file": "8303286577823141783.ogg"
+  },
+  {
+    "id": "8304681722256212255",
+    "content": " Objective targets destroyed!",
+    "file": "8304681722256212255.ogg"
+  },
+  {
+    "id": "8306867814260611678",
+    "content": " Ally destroyer leaving squadron",
+    "file": "8306867814260611678.ogg"
+  },
+  {
+    "id": "8318507426084857348",
+    "content": " Be advised the enemy high-priority target is near your position",
+    "file": "8318507426084857348.ogg"
+  },
+  {
+    "id": "8354425741665922432",
+    "content": " ETA T minus 2 minutes 30 seconds",
+    "file": "8354425741665922432.ogg"
+  },
+  {
+    "id": "8417346756797860290",
+    "content": " Deploying illumination flare",
+    "file": "8417346756797860290.ogg"
+  },
+  {
+    "id": "8417487540177886542",
+    "content": " ETA T minus 1 minute 30 seconds",
+    "file": "8417487540177886542.ogg"
+  },
+  {
+    "id": "8437341235890104493",
+    "content": " Unidentified hostiles incoming",
+    "file": "8437341235890104493.ogg"
+  },
+  {
+    "id": "8498790631789530103",
+    "content": " Objective complete",
+    "file": "8498790631789530103.ogg"
+  },
+  {
+    "id": "8508431506164206085",
+    "content": " Objective nearby",
+    "file": "8508431506164206085.ogg"
+  },
+  {
+    "id": "8558300875180877567",
+    "content": " Bot asset destroyed",
+    "file": "8558300875180877567.ogg"
+  },
+  {
+    "id": "8611297617752175464",
+    "content": " You may proceed to extraction when ready",
+    "file": "8611297617752175464.ogg"
+  },
+  {
+    "id": "8625699206881768653",
+    "content": " Deploying weapon emplacement",
+    "file": "8625699206881768653.ogg"
+  },
+  {
+    "id": "8733228560597347621",
+    "content": " Warning you are in range of enemy artillery",
+    "file": "8733228560597347621.ogg"
+  },
+  {
+    "id": "8737700285807016694",
+    "content": " Illuminate outpost destroyed",
+    "file": "8737700285807016694.ogg"
+  },
+  {
+    "id": "8864454300387680882",
+    "content": " Super Destroyer leaving low orbit emergency extraction shuttle deployed",
+    "file": "8864454300387680882.ogg"
+  },
+  {
+    "id": "8889671393881173230",
+    "content": " Sub-objective nearby",
+    "file": "8889671393881173230.ogg"
+  },
+  {
+    "id": "894064927266588753",
+    "content": " ETA T minus 3 minutes",
+    "file": "894064927266588753.ogg"
+  },
+  {
+    "id": "9019805937608944186",
+    "content": " Objective complete",
+    "file": "9019805937608944186.ogg"
+  },
+  {
+    "id": "9066678826860256254",
+    "content": " ETA T minus 10 seconds",
+    "file": "9066678826860256254.ogg"
+  },
+  {
+    "id": "9098130661218472643",
+    "content": " I repeat reinforcement ready",
+    "file": "9098130661218472643.ogg"
+  },
+  {
+    "id": "914025437264095724",
+    "content": " Main objective near your position",
+    "file": "914025437264095724.ogg"
+  },
+  {
+    "id": "9161098106100410906",
+    "content": " Deploying support station",
+    "file": "9161098106100410906.ogg"
+  },
+  {
+    "id": "9243743988506791144",
+    "content": " Enemy reinforcements incoming",
+    "file": "9243743988506791144.ogg"
+  },
+  {
+    "id": "926271107089383532",
+    "content": " Area secure",
+    "file": "926271107089383532.ogg"
+  },
+  {
+    "id": "9268130593865568580",
+    "content": " Enemy high-priority target should be nearby stay sharp",
+    "file": "9268130593865568580.ogg"
+  },
+  {
+    "id": "9270349902163247270",
+    "content": " Making progress",
+    "file": "9270349902163247270.ogg"
+  },
+  {
+    "id": "9289366013504211400",
+    "content": " ETA T minus 2 minutes 30 seconds",
+    "file": "9289366013504211400.ogg"
+  },
+  {
+    "id": "9309241059690695213",
+    "content": " ETA T minus 2 minutes",
+    "file": "9309241059690695213.ogg"
+  },
+  {
+    "id": "9312065545764088492",
+    "content": " Terminid outpost purged",
+    "file": "9312065545764088492.ogg"
+  },
+  {
+    "id": "936271686837697034",
+    "content": " Funding approved for one more reinforcement",
+    "file": "936271686837697034.ogg"
+  },
+  {
+    "id": "9366527798544151973",
+    "content": " Launching smoke screen",
+    "file": "9366527798544151973.ogg"
+  },
+  {
+    "id": "9385006190219681477",
+    "content": " Outpost cleared",
+    "file": "9385006190219681477.ogg"
+  },
+  {
+    "id": "9410000718142141241",
+    "content": " Enemy tactical asset within threat range",
+    "file": "9410000718142141241.ogg"
+  },
+  {
+    "id": "9581984787731585123",
+    "content": " Terminid outpost destroyed",
+    "file": "9581984787731585123.ogg"
+  },
+  {
+    "id": "9646417128221151412",
+    "content": " 1 minute left destroyer preparing to leave",
+    "file": "9646417128221151412.ogg"
+  },
+  {
+    "id": "9688366426374959194",
+    "content": " High-priority target is within your vicinity",
+    "file": "9688366426374959194.ogg"
+  },
+  {
+    "id": "9762884227701097616",
+    "content": " Firing orbital barrage clear the area",
+    "file": "9762884227701097616.ogg"
+  },
+  {
+    "id": "9787464285736535614",
+    "content": " Reinforcement ready to fire",
+    "file": "9787464285736535614.ogg"
+  },
+  {
+    "id": "9806047211767716409",
+    "content": " Deploying non-lethal payload",
+    "file": "9806047211767716409.ogg"
+  },
+  {
+    "id": "9831880271549273683",
+    "content": " Objective target destroyed",
+    "file": "9831880271549273683.ogg"
+  },
+  {
+    "id": "993071437589301149",
+    "content": " Target destroyed",
+    "file": "993071437589301149.ogg"
+  },
+  {
+    "id": "9970461406589572931",
+    "content": " Objective nearby",
+    "file": "9970461406589572931.ogg"
+  }
+]

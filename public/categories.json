@@ -1,0 +1,46 @@
+[
+  {
+    "label": "Mission_Civilian",
+    "value": "Mission_Civilian_VO"
+  },
+  {
+    "label": "Mission_SEAF",
+    "value": "Mission_SEAF_VO"
+  },
+  {
+    "label": "Radio_Admiral",
+    "value": "Radio_Admiral_VO"
+  },
+  {
+    "label": "Radio_Eagle_Pilot",
+    "value": "Radio_Eagle_Pilot_VO"
+  },
+  {
+    "label": "Radio_Extraction_Pilot",
+    "value": "Radio_Extraction_Pilot_VO"
+  },
+  {
+    "label": "Radio_Mission_Control",
+    "value": "Radio_Mission_Control_VO"
+  },
+  {
+    "label": "Radio_Shuttle_Pilot",
+    "value": "Radio_Shuttle_Pilot_VO"
+  },
+  {
+    "label": "Tutorial_Dummy",
+    "value": "Tutorial_Dummy_VO"
+  },
+  {
+    "label": "Tutorial_Extraction_Pilot",
+    "value": "Tutorial_Extraction_Pilot_VO"
+  },
+  {
+    "label": "Tutorial_Facility_Operator",
+    "value": "Tutorial_Facility_Operator_VO"
+  },
+  {
+    "label": "Tutorial_Instructor",
+    "value": "Tutorial_Instructor_VO"
+  }
+]
