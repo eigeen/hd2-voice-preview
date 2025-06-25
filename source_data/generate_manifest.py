@@ -3,10 +3,13 @@ import json
 import csv
 
 
+script_dir = os.path.dirname(os.path.abspath(__file__))
+os.chdir(script_dir)
+
+
 def main():
-    py_path = os.path.dirname(os.path.abspath(__file__))
-    input_root = os.path.join(py_path, "output_opus")
-    output_root = py_path
+    input_root = "output_opus"
+    output_root = "../public"
 
     # 生成分类表
     categories = []
@@ -26,7 +29,7 @@ def main():
 
     # 加载内容匹配表
     match_table_name = "voice_content_match_table.csv"
-    match_table_path = os.path.join(py_path, match_table_name)
+    match_table_path = match_table_name
     content_match_table = {}
     with open(match_table_path, "r", encoding="utf-8") as f:
         reader = csv.reader(f)
