@@ -1,0 +1,8 @@
+{
+  "printWidth": 80,
+  "htmlWhitespaceSensitivity": "ignore",
+  "proseWrap": "always",
+  "bracketSameLine": false,
+  "singleAttributePerLine": true,
+  "arrayElementNewline": true
+}
