@@ -28,6 +28,8 @@ const highlightedId = ref<string | null>(null);
 const toScroll = ref(true);
 const showMessage = ref(false);
 
+const TRUNCATE_LENGTH = 8; // ID显示的前N位数
+
 // 监听路由hash变化
 watch(
   () => route.hash,
@@ -70,7 +72,14 @@ watch(volume, (val) => {
 const header = [
   { title: "ID", key: "id" },
   { title: "内容", key: "content" },
-  { title: "操作", key: "actions", sortable: false },
+  {
+    title: "操作",
+    key: "actions",
+    sortable: false,
+    fixed: true,
+    align: "end" as const,
+    minWidth: "100px",
+  },
 ];
 
 const sheetData = useQuery({
@@ -138,6 +147,15 @@ function isHighlighted(item: VoiceItem) {
   return highlightedId.value === item.file.split(".")[0];
 }
 
+// 添加复制ID到剪贴板的函数
+async function copyId(id: string) {
+  await navigator.clipboard.writeText(id);
+  showMessage.value = true;
+  setTimeout(() => {
+    showMessage.value = false;
+  }, 2000);
+}
+
 onMounted(() => {
   const scrollInterval = setInterval(() => {
     if (toScroll.value && highlightedId.value) {
@@ -203,10 +221,22 @@ onMounted(() => {
           >
             <template v-slot:item="{ item }">
               <tr :class="{ 'highlighted-row': isHighlighted(item) }">
-                <td>{{ item.id }}</td>
-                <td>{{ item.content }}</td>
                 <td>
-                  <div class="d-flex gap-2">
+                  <!-- 桌面端显示完整ID -->
+                  <span class="hidden sm:inline">{{ item.id }}</span>
+                  <!-- 移动端显示截断的ID -->
+                  <span
+                    class="sm:hidden cursor-pointer"
+                    @click="copyId(item.id)"
+                    :title="`点击复制：${item.id}`"
+                  >
+                    {{ item.id.slice(0, TRUNCATE_LENGTH) }}...
+                  </span>
+                </td>
+                <td>{{ item.content }}</td>
+                <td class="text-right">
+                  <!-- 桌面端显示 -->
+                  <div class="hidden sm:flex justify-end">
                     <v-btn
                       :icon="
                         playingFile === item.file ? 'mdi-stop' : 'mdi-play'
@@ -222,6 +252,45 @@ onMounted(() => {
                       @click="shareSound(item.file)"
                     ></v-btn>
                   </div>
+                  <!-- 移动端显示 -->
+                  <div class="sm:hidden">
+                    <v-menu>
+                      <template v-slot:activator="{ props }">
+                        <v-btn
+                          icon="mdi-dots-vertical"
+                          size="small"
+                          variant="text"
+                          v-bind="props"
+                        ></v-btn>
+                      </template>
+                      <v-list>
+                        <v-list-item @click="handlePlaySound(item.file)">
+                          <template v-slot:prepend>
+                            <v-icon
+                              :icon="
+                                playingFile === item.file
+                                  ? 'mdi-stop'
+                                  : 'mdi-play'
+                              "
+                              size="small"
+                            ></v-icon>
+                          </template>
+                          <v-list-item-title>
+                            {{ playingFile === item.file ? "停止" : "播放" }}
+                          </v-list-item-title>
+                        </v-list-item>
+                        <v-list-item @click="shareSound(item.file)">
+                          <template v-slot:prepend>
+                            <v-icon
+                              icon="mdi-share-variant"
+                              size="small"
+                            ></v-icon>
+                          </template>
+                          <v-list-item-title>分享</v-list-item-title>
+                        </v-list-item>
+                      </v-list>
+                    </v-menu>
+                  </div>
                 </td>
               </tr>
             </template>
@@ -236,7 +305,7 @@ onMounted(() => {
       color="success"
       location="top"
     >
-      链接已复制到剪贴板
+      {{ playingFile ? "链接已复制到剪贴板" : "ID已复制到剪贴板" }}
     </v-snackbar>
   </v-app>
 </template>
@@ -244,5 +313,8 @@ onMounted(() => {
 <style scoped>
 .highlighted-row {
   background-color: rgba(255, 255, 0, 0.2) !important;
+}
+.cursor-pointer {
+  cursor: pointer;
 }
 </style>
