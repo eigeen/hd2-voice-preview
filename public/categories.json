@@ -1,5 +1,21 @@
 [
   {
+    "label": "helldiver_purist",
+    "value": "helldiver_purist_VO"
+  },
+  {
+    "label": "helldiver_soldier_female1",
+    "value": "helldiver_soldier_female1_VO"
+  },
+  {
+    "label": "helldiver_soldier_female2",
+    "value": "helldiver_soldier_female2_VO"
+  },
+  {
+    "label": "helldiver_soldier_male1",
+    "value": "helldiver_soldier_male1_VO"
+  },
+  {
     "label": "Mission_Civilian",
     "value": "Mission_Civilian_VO"
   },

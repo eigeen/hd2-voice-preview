@@ -3,6 +3,9 @@ import subprocess
 import shutil
 import concurrent.futures
 
+script_dir = os.path.dirname(os.path.abspath(__file__))
+os.chdir(script_dir)
+
 input_root = "output"
 
 wav_files = []
@@ -42,6 +45,6 @@ def convert_wav_to_ogg(wav_file):
         print(f"转换失败: {wav_file}")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     with concurrent.futures.ProcessPoolExecutor(max_workers=8) as executor:
         executor.map(convert_wav_to_ogg, wav_files)
