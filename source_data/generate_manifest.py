@@ -11,15 +11,21 @@ def main():
     input_root = "output_opus"
     output_root = "../public"
 
+    # 加载名称匹配表
+    name_match_table_name = "voice_bank_name.json"
+    with open(name_match_table_name, "r", encoding="utf-8") as f:
+        name_match_table = json.load(f)
+
     # 生成分类表
     categories = []
     for dir_name in os.listdir(input_root):
         if not os.path.isdir(os.path.join(input_root, dir_name)):
             continue
 
+        label = name_match_table.get(dir_name, dir_name.replace("_VO", ""))
         categories.append(
             {
-                "label": dir_name.replace("_VO", ""),
+                "label": label,
                 "value": dir_name,
             }
         )
@@ -57,7 +63,7 @@ def main():
             )
 
         with open(
-            os.path.join(output_root, f"{category['value']}.json"),
+            os.path.join(output_root, f"{category["value"]}.json"),
             "w",
             encoding="utf-8",
         ) as f:
