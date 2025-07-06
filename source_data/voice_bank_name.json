@@ -2,5 +2,20 @@
   "helldiver_soldier_female1_VO": "潜兵 1 (Female 1)",
   "helldiver_soldier_male1_VO": "潜兵 2 (Male 1)",
   "helldiver_soldier_female2_VO": "潜兵 3 (Female 2)",
-  "helldiver_purist_VO": "潜兵 4 (Male 2)"
+  "helldiver_purist_VO": "潜兵 4 (Male 2)",
+  "Mission_Civilian_VO": "平民",
+  "Mission_SEAF_VO": "SEAF",
+  "Radio_Admiral_VO": "无线电民主官",
+  "Radio_Eagle_Pilot_VO": "无线电飞鹰",
+  "Radio_Extraction_Pilot_VO": "无线电撤离鹈鹕",
+  "Radio_Mission_Control_VO": "无线电任务控制中心",
+  "Radio_Shuttle_Pilot_VO": "Radio_Shuttle_Pilot_VO",
+  "Shiphub_Admiral_VO": "舰桥民主官",
+  "Shiphub_Service_Technician_VO": "舰船机械师",
+  "Shiphub_Ship_Master_VO": "舰长",
+  "Ship_Hub": "舰桥（广播，星图等）",
+  "Tutorial_Dummy_VO": "教程假人",
+  "Tutorial_Extraction_Pilot_VO": "教程撤离飞行员",
+  "Tutorial_Facility_Operator_VO": "教程设施操作员",
+  "Tutorial_Instructor_VO": "教程教官（不拉屎）"
 }

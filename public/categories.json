@@ -16,63 +16,63 @@
     "value": "helldiver_soldier_male1_VO"
   },
   {
-    "label": "Mission_Civilian",
+    "label": "平民",
     "value": "Mission_Civilian_VO"
   },
   {
-    "label": "Mission_SEAF",
+    "label": "SEAF",
     "value": "Mission_SEAF_VO"
   },
   {
-    "label": "Radio_Admiral",
+    "label": "无线电民主官",
     "value": "Radio_Admiral_VO"
   },
   {
-    "label": "Radio_Eagle_Pilot",
+    "label": "无线电飞鹰",
     "value": "Radio_Eagle_Pilot_VO"
   },
   {
-    "label": "Radio_Extraction_Pilot",
+    "label": "无线电撤离鹈鹕",
     "value": "Radio_Extraction_Pilot_VO"
   },
   {
-    "label": "Radio_Mission_Control",
+    "label": "无线电任务控制中心",
     "value": "Radio_Mission_Control_VO"
   },
   {
-    "label": "Radio_Shuttle_Pilot",
+    "label": "Radio_Shuttle_Pilot_VO",
     "value": "Radio_Shuttle_Pilot_VO"
   },
   {
-    "label": "Shiphub_Admiral",
+    "label": "舰桥民主官",
     "value": "Shiphub_Admiral_VO"
   },
   {
-    "label": "Shiphub_Service_Technician",
+    "label": "舰船机械师",
     "value": "Shiphub_Service_Technician_VO"
   },
   {
-    "label": "Shiphub_Ship_Master",
+    "label": "舰长",
     "value": "Shiphub_Ship_Master_VO"
   },
   {
-    "label": "Ship_Hub",
+    "label": "舰桥（广播，星图等）",
     "value": "Ship_Hub"
   },
   {
-    "label": "Tutorial_Dummy",
+    "label": "教程假人",
     "value": "Tutorial_Dummy_VO"
   },
   {
-    "label": "Tutorial_Extraction_Pilot",
+    "label": "教程撤离飞行员",
     "value": "Tutorial_Extraction_Pilot_VO"
   },
   {
-    "label": "Tutorial_Facility_Operator",
+    "label": "教程设施操作员",
     "value": "Tutorial_Facility_Operator_VO"
   },
   {
-    "label": "Tutorial_Instructor",
+    "label": "教程教官（不拉屎）",
     "value": "Tutorial_Instructor_VO"
   }
 ]
